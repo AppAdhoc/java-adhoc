@@ -6,7 +6,6 @@
   <artifactId>java-sdkv01</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>../TestSDK</module>
   </modules>
   <packaging>pom</packaging>
 
