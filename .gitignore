@@ -1,1 +1,4 @@
 .DS_Store
+/javaSdkProject/test-java-adhoc-sdk
+/javaSdkProject/.idea
+/out

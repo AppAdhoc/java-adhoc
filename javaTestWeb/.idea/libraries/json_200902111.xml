@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="json-200902111">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/test-java-adhoc-sdk/target/test-adhoc-java-sdk/WEB-INF/lib/json-20090211.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

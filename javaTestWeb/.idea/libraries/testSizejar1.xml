@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="testSizejar1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/testSizejar/testSizejar.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
