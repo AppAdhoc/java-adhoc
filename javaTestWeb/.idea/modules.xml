@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-java-adhoc-sdk/src/main/TestJavaWeb.iml" filepath="$PROJECT_DIR$/test-java-adhoc-sdk/src/main/TestJavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adhoc-java-sdkv1/src/main/java-appadhoc-sdk01.iml" filepath="$PROJECT_DIR$/adhoc-java-sdkv1/src/main/java-appadhoc-sdk01.iml" />
+    </modules>
+  </component>
+</project>

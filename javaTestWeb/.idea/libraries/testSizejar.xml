@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testSizejar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-java-adhoc-sdk/src/main/webapp/lib/testSizejar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
